@@ -92,7 +92,7 @@ a:visited {
 		top: 0;
 	}
 
-	.topnav.responsive a {
+	.topnav.responsive a:not(:last-child) {
 		float: none;
 		display: block;
 		text-align: left;
