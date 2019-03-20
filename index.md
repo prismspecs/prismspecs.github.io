@@ -10,7 +10,9 @@ Bail Bloc was created along with my collaborators Maya Binyam, Francis Tseng, JB
 
 ## This is another test
 
-![a caption for the video](https://www.youtube.com/watch?v=DAWyEkIxacg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DAWyEkIxacg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ![a caption for the photo](0.jpg)
 ![a caption for the photo](1.jpg)
 ![a caption for the photo](2.jpg)
