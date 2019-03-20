@@ -92,10 +92,12 @@ a:visited {
 		top: 0;
 	}
 
-	.topnav.responsive a:not(:last-child) {
+	.topnav.responsive a {
 		float: none;
 		display: block;
 		text-align: left;
-		padding-top: 15px;
+	}
+	.topnav.responsive a:not(:last-child) {
+		padding-bottom: 15px;
 	}
 }
