@@ -32,7 +32,7 @@ title: Grayson Earle - AI Software Engineer
             <div class="about-text">
                 <p>
                     I'm a Software Engineer with a passion for artificial intelligence and creative technology. 
-                    With expertise in Python, JavaScript, and modern ML frameworks, I build systems that process 
+                    With expertise in Python, C++, C#, JavaScript, and modern ML frameworks, I build systems that process 
                     multimedia inputs, analyze real-time data, and create interactive experiences.
                 </p>
                 <p>
@@ -45,6 +45,7 @@ title: Grayson Earle - AI Software Engineer
                     <div class="skill-tags">
                         <span class="skill-tag">Python</span>
                         <span class="skill-tag">JavaScript</span>
+                        <span class="skill-tag">C++/C#</span>
                         <span class="skill-tag">Machine Learning</span>
                         <span class="skill-tag">Computer Vision</span>
                         <span class="skill-tag">TensorFlow/PyTorch</span>
