@@ -1,20 +1,211 @@
-# Bail Bloc
+---
+layout: default
+title: Grayson Earle - AI Software Engineer
+---
 
-Bail Bloc is a computer program that bails people out of jail. Volunteers can download the application to any desktop or laptop computer. The app runs in the background of everyday use, mining a cryptocurrency called Monero. The rewards from mining are exchanged for $USD and donated directly to the Bronx Freedom Fund, which uses 100% of the money to pay bail for low income, marginalized individuals.
+<section id="home" class="hero">
+    <div class="container">
+        <div class="hero-content">
+            <h1 class="hero-title">Grayson Earle</h1>
+            <h2 class="hero-subtitle">AI Software Engineer</h2>
+            <p class="hero-description">
+                Specializing in machine learning, computer vision, and creative coding. 
+                Building intelligent systems that bridge art and technology.
+            </p>
+            <div class="hero-cta">
+                <a href="#projects" class="btn btn-primary">View Projects</a>
+                <a href="#contact" class="btn btn-secondary">Get in Touch</a>
+            </div>
+        </div>
+        <div class="hero-visual">
+            <div class="ai-animation">
+                <div class="neural-network"></div>
+            </div>
+        </div>
+    </div>
+</section>
 
-Research has shown that being able to afford bail increases the likelihood of winning a case taken to trial by 40%. Bail not only allows people to be released from pre-trial detention, but also serves to increase the number of cases dismissed.
+<section id="about" class="about">
+    <div class="container">
+        <h2 class="section-title">About Me</h2>
+        <div class="about-content">
+            <div class="about-text">
+                <p>
+                    I'm a Software Engineer with a passion for artificial intelligence and creative technology. 
+                    With expertise in Python, JavaScript, and modern ML frameworks, I build systems that process 
+                    multimedia inputs, analyze real-time data, and create interactive experiences.
+                </p>
+                <p>
+                    My background spans computer vision, natural language processing, and creative coding, 
+                    with experience in both research and production environments. I believe in creating AI 
+                    systems that are not only powerful but also accessible and ethically sound.
+                </p>
+                <div class="skills">
+                    <h3>Core Skills</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Python</span>
+                        <span class="skill-tag">JavaScript</span>
+                        <span class="skill-tag">Machine Learning</span>
+                        <span class="skill-tag">Computer Vision</span>
+                        <span class="skill-tag">TensorFlow/PyTorch</span>
+                        <span class="skill-tag">OpenCV</span>
+                        <span class="skill-tag">React/Node.js</span>
+                        <span class="skill-tag">Docker</span>
+                        <span class="skill-tag">Git</span>
+                    </div>
+                </div>
+            </div>
+            <div class="about-image">
+                <div class="profile-placeholder">
+                    <i class="fas fa-user-circle"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-Bail Bloc was created along with my collaborators Maya Binyam, Francis Tseng, JB Rubinovitz, Sam Lavigne, and the Dark Inquiry collective.
+<section id="projects" class="projects">
+    <div class="container">
+        <h2 class="section-title">Featured Projects</h2>
+        <div class="projects-grid">
+            <div class="project-card">
+                <div class="project-image">
+                    <i class="fas fa-brain"></i>
+                </div>
+                <div class="project-content">
+                    <h3>Python Face Emotion Video</h3>
+                    <p>AI-powered emotion recognition system combining facial landmark detection with deep learning for real-time video analysis.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">OpenCV</span>
+                        <span class="tech-tag">TensorFlow</span>
+                    </div>
+                    <a href="https://github.com/prismspecs/python-face-emotion-video" class="project-link" target="_blank">
+                        <i class="fab fa-github"></i> View on GitHub
+                    </a>
+                </div>
+            </div>
 
-[Visit the official project site here](//bailbloc.thenewinquiry.com)
+            <div class="project-card">
+                <div class="project-image">
+                    <i class="fas fa-sync-alt"></i>
+                </div>
+                <div class="project-content">
+                    <h3>KitchenSync</h3>
+                    <p>Multi-device video synchronization system with arbitrary time-based commands for creative performances.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">Real-time</span>
+                        <span class="tech-tag">Video Processing</span>
+                    </div>
+                    <a href="https://github.com/prismspecs/kitchenSync" class="project-link" target="_blank">
+                        <i class="fab fa-github"></i> View on GitHub
+                    </a>
+                </div>
+            </div>
 
-## This is another test
+            <div class="project-card">
+                <div class="project-image">
+                    <i class="fas fa-robot"></i>
+                </div>
+                <div class="project-content">
+                    <h3>StyleGAN3 Training</h3>
+                    <p>Dockerized StyleGAN3 training environment for generative adversarial network model development.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">Docker</span>
+                        <span class="tech-tag">GANs</span>
+                    </div>
+                    <a href="https://github.com/prismspecs/stylegan3" class="project-link" target="_blank">
+                        <i class="fab fa-github"></i> View on GitHub
+                    </a>
+                </div>
+            </div>
 
-<div class="video-container"><iframe width="853" height="480" src="https://www.youtube.com/embed/DAWyEkIxacg" frameborder="0" allowfullscreen></iframe></div>
-![a caption for the photo](0.jpg)
-![a caption for the photo](1.jpg)
-![a caption for the photo](2.jpg)
-![a caption for the photo](3.jpg)
+            <div class="project-card">
+                <div class="project-image">
+                    <i class="fas fa-eye"></i>
+                </div>
+                <div class="project-content">
+                    <h3>Vision Concentrator</h3>
+                    <p>Computer vision system for real-time image processing and analysis with customizable filters.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">OpenCV</span>
+                        <span class="tech-tag">Real-time</span>
+                    </div>
+                    <a href="https://github.com/prismspecs/vision-concentrator-2" class="project-link" target="_blank">
+                        <i class="fab fa-github"></i> View on GitHub
+                    </a>
+                </div>
+            </div>
 
-## Press
-www.google.com/123
+            <div class="project-card">
+                <div class="project-image">
+                    <i class="fas fa-chart-line"></i>
+                </div>
+                <div class="project-content">
+                    <h3>Open Weather AGS</h3>
+                    <p>Automated Ground Station for open-weather project with real-time data collection and analysis.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">JavaScript</span>
+                        <span class="tech-tag">IoT</span>
+                        <span class="tech-tag">Data Analysis</span>
+                    </div>
+                    <a href="https://github.com/prismspecs/open_weather-ags" class="project-link" target="_blank">
+                        <i class="fab fa-github"></i> View on GitHub
+                    </a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <div class="project-image">
+                    <i class="fas fa-gamepad"></i>
+                </div>
+                <div class="project-content">
+                    <h3>Emotion Game</h3>
+                    <p>Interactive emotion recognition game using computer vision and machine learning for user engagement.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">JavaScript</span>
+                        <span class="tech-tag">Computer Vision</span>
+                        <span class="tech-tag">Interactive</span>
+                    </div>
+                    <a href="https://github.com/prismspecs/emotion-game" class="project-link" target="_blank">
+                        <i class="fab fa-github"></i> View on GitHub
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="more-projects">
+            <a href="https://github.com/prismspecs?tab=repositories" class="btn btn-outline" target="_blank">
+                View All Projects on GitHub <i class="fas fa-external-link-alt"></i>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section id="contact" class="contact">
+    <div class="container">
+        <h2 class="section-title">Get in Touch</h2>
+        <div class="contact-content">
+            <p class="contact-description">
+                I'm always interested in new opportunities in AI and software engineering. 
+                Whether you have a project in mind or just want to connect, feel free to reach out.
+            </p>
+            <div class="contact-links">
+                <a href="https://github.com/prismspecs" class="contact-link" target="_blank">
+                    <i class="fab fa-github"></i>
+                    <span>GitHub</span>
+                </a>
+                <a href="https://www.graysonearle.com" class="contact-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <span>Website</span>
+                </a>
+                <a href="https://www.instagram.com/prismspecs" class="contact-link" target="_blank">
+                    <i class="fab fa-instagram"></i>
+                    <span>Instagram</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
