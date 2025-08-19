@@ -58,7 +58,7 @@ title: Grayson Earle - AI Software Engineer
             </div>
             <div class="about-image">
                 <div class="profile-placeholder">
-                    <img src="hedshot.png" alt="Grayson Earle - AI Software Engineer" />
+                    <img src="assets/images/headshot.png" alt="Grayson Earle - AI Software Engineer" />
                 </div>
             </div>
         </div>
