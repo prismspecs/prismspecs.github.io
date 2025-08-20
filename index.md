@@ -71,15 +71,15 @@ title: Grayson Earle - AI Software Engineer
         <div class="projects-grid">
             <div class="project-card">
                 <div class="project-image">
-                    <i class="fas fa-sync-alt"></i>
+                    <i class="fas fa-layer-group"></i>
                 </div>
                 <div class="project-content">
                     <h3>KitchenSync</h3>
-                    <p>Multi-channel video synchronization system supporting theoretically infinite channels with arbitrary time-based commands for creative performances.</p>
+                    <p>Multi-channel video synchronization system built for Raspberry Pi, supporting theoretically infinite channels. Can trigger events like OSC, MIDI, and other protocols based on video timeline for immersive creative performances.</p>
                     <div class="project-tech">
                         <span class="tech-tag">Python</span>
+                        <span class="tech-tag">Raspberry Pi</span>
                         <span class="tech-tag">Multi-channel</span>
-                        <span class="tech-tag">Video Sync</span>
                     </div>
                     <a href="https://github.com/prismspecs/kitchenSync" class="project-link" target="_blank">
                         <i class="fab fa-github"></i> View on GitHub
@@ -89,11 +89,11 @@ title: Grayson Earle - AI Software Engineer
 
             <div class="project-card">
                 <div class="project-image">
-                    <i class="fas fa-chart-line"></i>
+                    <i class="fas fa-satellite"></i>
                 </div>
                 <div class="project-content">
                     <h3>Open Weather AGS</h3>
-                    <p>Automatic Ground Station which collects and decodes meteorological data from NOAA satellites in real time.</p>
+                    <p>Automatic Ground Station which collects and decodes meteorological data from NOAA satellites in real-time.</p>
                     <div class="project-tech">
                         <span class="tech-tag">JavaScript</span>
                         <span class="tech-tag">Satellite Data</span>
@@ -128,8 +128,8 @@ title: Grayson Earle - AI Software Engineer
                     <i class="fas fa-brain"></i>
                 </div>
                 <div class="project-content">
-                    <h3>Python Face Emotion Video</h3>
-                    <p>AI-powered emotion recognition system combining facial landmark detection with deep learning for real-time video analysis.</p>
+                    <h3>Video Emotion Analysis</h3>
+                    <p>AI-powered video processing system that analyzes input videos and outputs annotated videos with facial landmarks and emotional prediction data overlaid.</p>
                     <div class="project-tech">
                         <span class="tech-tag">Python</span>
                         <span class="tech-tag">OpenCV</span>
