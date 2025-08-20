@@ -75,11 +75,11 @@ title: Grayson Earle - AI Software Engineer
                 </div>
                 <div class="project-content">
                     <h3>KitchenSync</h3>
-                    <p>Multi-device video synchronization system with arbitrary time-based commands for creative performances.</p>
+                    <p>Multi-channel video synchronization system supporting theoretically infinite channels with arbitrary time-based commands for creative performances.</p>
                     <div class="project-tech">
                         <span class="tech-tag">Python</span>
-                        <span class="tech-tag">Real-time</span>
-                        <span class="tech-tag">Video Processing</span>
+                        <span class="tech-tag">Multi-channel</span>
+                        <span class="tech-tag">Video Sync</span>
                     </div>
                     <a href="https://github.com/prismspecs/kitchenSync" class="project-link" target="_blank">
                         <i class="fab fa-github"></i> View on GitHub
@@ -93,11 +93,11 @@ title: Grayson Earle - AI Software Engineer
                 </div>
                 <div class="project-content">
                     <h3>Open Weather AGS</h3>
-                    <p>Automated Ground Station for open-weather project with real-time data collection and analysis.</p>
+                    <p>Automatic Ground Station which collects and decodes meteorological data from NOAA satellites in real time.</p>
                     <div class="project-tech">
                         <span class="tech-tag">JavaScript</span>
-                        <span class="tech-tag">IoT</span>
-                        <span class="tech-tag">Data Analysis</span>
+                        <span class="tech-tag">Satellite Data</span>
+                        <span class="tech-tag">Real-time</span>
                     </div>
                     <a href="https://github.com/prismspecs/open_weather-ags" class="project-link" target="_blank">
                         <i class="fab fa-github"></i> View on GitHub
@@ -111,10 +111,10 @@ title: Grayson Earle - AI Software Engineer
                 </div>
                 <div class="project-content">
                     <h3>Vision Concentrator</h3>
-                    <p>Computer vision system for real-time image processing and analysis with customizable filters.</p>
+                    <p>Real-time AI video generator which creates a seamless video loop based on text input from participants.</p>
                     <div class="project-tech">
                         <span class="tech-tag">Python</span>
-                        <span class="tech-tag">OpenCV</span>
+                        <span class="tech-tag">AI Video</span>
                         <span class="tech-tag">Real-time</span>
                     </div>
                     <a href="https://github.com/prismspecs/vision-concentrator-2" class="project-link" target="_blank">
