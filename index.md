@@ -94,10 +94,9 @@ title: Grayson Earle - AI Software Engineer
                 <div class="project-content">
                     <h3>Open Weather AGS</h3>
                     <p>Automatic Ground Station which collects and decodes meteorological data from NOAA satellites in real-time.</p>
-                    <div class="project-tech">
-                        <span class="tech-tag">JavaScript</span>
+                    <div class="tech-tag">JavaScript</span>
                         <span class="tech-tag">Satellite Data</span>
-                        <span class="tech-tag">Real-time</span>
+                        <span class="tech-tag">Node.js</span>
                     </div>
                     <a href="https://github.com/prismspecs/open_weather-ags" class="project-link" target="_blank">
                         <i class="fab fa-github"></i> View on GitHub
