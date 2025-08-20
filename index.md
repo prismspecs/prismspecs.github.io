@@ -75,7 +75,7 @@ title: Grayson Earle - AI Software Engineer
                 </div>
                 <div class="project-content">
                     <h3>KitchenSync</h3>
-                    <p>Multi-channel video synchronization system built for Raspberry Pi, supporting theoretically infinite channels. Can trigger events like OSC, MIDI, and other protocols based on video timeline for immersive creative performances.</p>
+                    <p>Multi-channel video synchronization system built for Raspberry Pi, supporting theoretically infinite channels. Triggers events like OSC, MIDI, and other protocols based on video timeline.</p>
                     <div class="project-tech">
                         <span class="tech-tag">Python</span>
                         <span class="tech-tag">Raspberry Pi</span>
@@ -143,17 +143,17 @@ title: Grayson Earle - AI Software Engineer
 
             <div class="project-card">
                 <div class="project-image">
-                    <i class="fas fa-palette"></i>
+                    <i class="fas fa-video"></i>
                 </div>
                 <div class="project-content">
-                    <h3>Canvas Draw to Dropbox</h3>
-                    <p>Interactive canvas drawing application with automatic saving to Dropbox cloud storage.</p>
+                    <h3>Peoples Pad v3</h3>
+                    <p>Live video projection mapping application built with openFrameworks. Captures webcam input and outputs to warpable quads with Syphon support for real-time performance installations.</p>
                     <div class="project-tech">
-                        <span class="tech-tag">JavaScript</span>
-                        <span class="tech-tag">Canvas API</span>
-                        <span class="tech-tag">Dropbox API</span>
+                        <span class="tech-tag">C++</span>
+                        <span class="tech-tag">openFrameworks</span>
+                        <span class="tech-tag">Projection Mapping</span>
                     </div>
-                    <a href="https://github.com/prismspecs/canvas-draw-to-dropbox" class="project-link" target="_blank">
+                    <a href="https://github.com/prismspecs/peoples-pad-v3" class="project-link" target="_blank">
                         <i class="fab fa-github"></i> View on GitHub
                     </a>
                 </div>
