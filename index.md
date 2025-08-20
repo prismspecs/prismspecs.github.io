@@ -198,7 +198,7 @@ title: Grayson Earle - AI Software Engineer
                     <i class="fab fa-github"></i>
                     <span>GitHub</span>
                 </a>
-                <a href="https://www.linkedin.com/in/grayson-earle-560412224/" class="contact-link" target="_blank">
+                <a href="https://www.linkedin.com/in/grayson-earle/" class="contact-link" target="_blank">
                     <i class="fab fa-linkedin"></i>
                     <span>LinkedIn</span>
                 </a>
