@@ -71,24 +71,6 @@ title: Grayson Earle - AI Software Engineer
         <div class="projects-grid">
             <div class="project-card">
                 <div class="project-image">
-                    <i class="fas fa-brain"></i>
-                </div>
-                <div class="project-content">
-                    <h3>Python Face Emotion Video</h3>
-                    <p>AI-powered emotion recognition system combining facial landmark detection with deep learning for real-time video analysis.</p>
-                    <div class="project-tech">
-                        <span class="tech-tag">Python</span>
-                        <span class="tech-tag">OpenCV</span>
-                        <span class="tech-tag">TensorFlow</span>
-                    </div>
-                    <a href="https://github.com/prismspecs/python-face-emotion-video" class="project-link" target="_blank">
-                        <i class="fab fa-github"></i> View on GitHub
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card">
-                <div class="project-image">
                     <i class="fas fa-sync-alt"></i>
                 </div>
                 <div class="project-content">
@@ -100,42 +82,6 @@ title: Grayson Earle - AI Software Engineer
                         <span class="tech-tag">Video Processing</span>
                     </div>
                     <a href="https://github.com/prismspecs/kitchenSync" class="project-link" target="_blank">
-                        <i class="fab fa-github"></i> View on GitHub
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card">
-                <div class="project-image">
-                    <i class="fas fa-robot"></i>
-                </div>
-                <div class="project-content">
-                    <h3>StyleGAN3 Training</h3>
-                    <p>Dockerized StyleGAN3 training environment for generative adversarial network model development.</p>
-                    <div class="project-tech">
-                        <span class="tech-tag">Python</span>
-                        <span class="tech-tag">Docker</span>
-                        <span class="tech-tag">GANs</span>
-                    </div>
-                    <a href="https://github.com/prismspecs/stylegan3" class="project-link" target="_blank">
-                        <i class="fab fa-github"></i> View on GitHub
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card">
-                <div class="project-image">
-                    <i class="fas fa-eye"></i>
-                </div>
-                <div class="project-content">
-                    <h3>Vision Concentrator</h3>
-                    <p>Computer vision system for real-time image processing and analysis with customizable filters.</p>
-                    <div class="project-tech">
-                        <span class="tech-tag">Python</span>
-                        <span class="tech-tag">OpenCV</span>
-                        <span class="tech-tag">Real-time</span>
-                    </div>
-                    <a href="https://github.com/prismspecs/vision-concentrator-2" class="project-link" target="_blank">
                         <i class="fab fa-github"></i> View on GitHub
                     </a>
                 </div>
@@ -161,17 +107,71 @@ title: Grayson Earle - AI Software Engineer
 
             <div class="project-card">
                 <div class="project-image">
-                    <i class="fas fa-gamepad"></i>
+                    <i class="fas fa-eye"></i>
                 </div>
                 <div class="project-content">
-                    <h3>Emotion Game</h3>
-                    <p>Interactive emotion recognition game using computer vision and machine learning for user engagement.</p>
+                    <h3>Vision Concentrator</h3>
+                    <p>Computer vision system for real-time image processing and analysis with customizable filters.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">OpenCV</span>
+                        <span class="tech-tag">Real-time</span>
+                    </div>
+                    <a href="https://github.com/prismspecs/vision-concentrator-2" class="project-link" target="_blank">
+                        <i class="fab fa-github"></i> View on GitHub
+                    </a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <div class="project-image">
+                    <i class="fas fa-brain"></i>
+                </div>
+                <div class="project-content">
+                    <h3>Python Face Emotion Video</h3>
+                    <p>AI-powered emotion recognition system combining facial landmark detection with deep learning for real-time video analysis.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">OpenCV</span>
+                        <span class="tech-tag">TensorFlow</span>
+                    </div>
+                    <a href="https://github.com/prismspecs/python-face-emotion-video" class="project-link" target="_blank">
+                        <i class="fab fa-github"></i> View on GitHub
+                    </a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <div class="project-image">
+                    <i class="fas fa-palette"></i>
+                </div>
+                <div class="project-content">
+                    <h3>Canvas Draw to Dropbox</h3>
+                    <p>Interactive canvas drawing application with automatic saving to Dropbox cloud storage.</p>
                     <div class="project-tech">
                         <span class="tech-tag">JavaScript</span>
-                        <span class="tech-tag">Computer Vision</span>
-                        <span class="tech-tag">Interactive</span>
+                        <span class="tech-tag">Canvas API</span>
+                        <span class="tech-tag">Dropbox API</span>
                     </div>
-                    <a href="https://github.com/prismspecs/emotion-game" class="project-link" target="_blank">
+                    <a href="https://github.com/prismspecs/canvas-draw-to-dropbox" class="project-link" target="_blank">
+                        <i class="fab fa-github"></i> View on GitHub
+                    </a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <div class="project-image">
+                    <i class="fas fa-random"></i>
+                </div>
+                <div class="project-content">
+                    <h3>GAN Degrade</h3>
+                    <p>Experimental system for randomly degrading GAN model buffers and parameters to explore model robustness.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">GANs</span>
+                        <span class="tech-tag">Machine Learning</span>
+                    </div>
+                    <a href="https://github.com/prismspecs/gan_degrade" class="project-link" target="_blank">
                         <i class="fab fa-github"></i> View on GitHub
                     </a>
                 </div>
